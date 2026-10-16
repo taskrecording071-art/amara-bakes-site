@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-15",
   "branches": [
     {
       "branch": "Ikeja",
-      "weekday": "07:00-19:00",
-      "sunday": "10:00-16:00"
+      "weekday": "07:00-20:00)",
+      "sunday": "09:00:00-16:00:00"
     },
     {
       "branch": "Lekki",
@@ -13,13 +13,13 @@
     },
     {
       "branch": "Yaba",
-      "weekday": "06:30-18:00",
-      "sunday": "11:00-15:00"
+      "weekday": "06:30-19:00:00",
+      "sunday": "06:30-19:00),"
     },
     {
       "branch": "Surulere",
       "weekday": "07:00-19:00",
-      "sunday": "11:00-16:00"
+      "sunday": "07:00-19:00), "
     }
   ]
 }
